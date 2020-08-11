@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37527B4024E2287F00B6F4B2 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37527B3F24E2287F00B6F4B2 /* MapView.swift */; };
 		37BE488824E21E6D0045B62C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BE488724E21E6D0045B62C /* AppDelegate.swift */; };
 		37BE488A24E21E6D0045B62C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BE488924E21E6D0045B62C /* SceneDelegate.swift */; };
 		37BE488C24E21E6D0045B62C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BE488B24E21E6D0045B62C /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37527B3F24E2287F00B6F4B2 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		37BE488424E21E6D0045B62C /* swiftui-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		37BE488724E21E6D0045B62C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37BE488924E21E6D0045B62C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,11 +63,12 @@
 				37BE488724E21E6D0045B62C /* AppDelegate.swift */,
 				37BE488924E21E6D0045B62C /* SceneDelegate.swift */,
 				37BE488B24E21E6D0045B62C /* ContentView.swift */,
+				37BE489B24E224E50045B62C /* CircleImage.swift */,
+				37527B3F24E2287F00B6F4B2 /* MapView.swift */,
 				37BE488D24E21E710045B62C /* Assets.xcassets */,
 				37BE489224E21E710045B62C /* LaunchScreen.storyboard */,
 				37BE489524E21E710045B62C /* Info.plist */,
 				37BE488F24E21E710045B62C /* Preview Content */,
-				37BE489B24E224E50045B62C /* CircleImage.swift */,
 			);
 			path = "swiftui-1";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				37BE488824E21E6D0045B62C /* AppDelegate.swift in Sources */,
 				37BE489C24E224E50045B62C /* CircleImage.swift in Sources */,
+				37527B4024E2287F00B6F4B2 /* MapView.swift in Sources */,
 				37BE488A24E21E6D0045B62C /* SceneDelegate.swift in Sources */,
 				37BE488C24E21E6D0045B62C /* ContentView.swift in Sources */,
 			);
