@@ -13,6 +13,7 @@
 		37BE488E24E21E710045B62C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37BE488D24E21E710045B62C /* Assets.xcassets */; };
 		37BE489124E21E710045B62C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37BE489024E21E710045B62C /* Preview Assets.xcassets */; };
 		37BE489424E21E710045B62C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37BE489224E21E710045B62C /* LaunchScreen.storyboard */; };
+		37BE489C24E224E50045B62C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BE489B24E224E50045B62C /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		37BE489024E21E710045B62C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		37BE489324E21E710045B62C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37BE489524E21E710045B62C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37BE489B24E224E50045B62C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				37BE489224E21E710045B62C /* LaunchScreen.storyboard */,
 				37BE489524E21E710045B62C /* Info.plist */,
 				37BE488F24E21E710045B62C /* Preview Content */,
+				37BE489B24E224E50045B62C /* CircleImage.swift */,
 			);
 			path = "swiftui-1";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37BE488824E21E6D0045B62C /* AppDelegate.swift in Sources */,
+				37BE489C24E224E50045B62C /* CircleImage.swift in Sources */,
 				37BE488A24E21E6D0045B62C /* SceneDelegate.swift in Sources */,
 				37BE488C24E21E6D0045B62C /* ContentView.swift in Sources */,
 			);
